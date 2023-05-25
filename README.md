@@ -1,2 +1,4 @@
 # Excel_City_Store_Data_Analysis
-This is Excel project. I have made dashboard using excel so that data will be clearly visible.
+## **Objective**
+ City store wants to create an annual sales report for 2022.So that, City store can understand their customers and grow more sales in 2023.
+
